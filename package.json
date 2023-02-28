@@ -1,0 +1,25 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brayanrodallega/curso-asincronismo-js.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "brayan rodallega <thebrayan1a1@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brayanrodallega/curso-asincronismo-js/issues"
+  },
+  "homepage": "https://github.com/brayanrodallega/curso-asincronismo-js#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
